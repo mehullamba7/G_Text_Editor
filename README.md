@@ -22,9 +22,9 @@ This project is a testament to how efficient a text editor can be, even with a m
 
 # Demo
 #### Opening a file in text editor
-
+https://github.com/mehullamba7/G_Text_Editor/assets/174151487/490d63ef-f2dd-4088-8476-45a0d24fd7b7
 #### Opening a C file
-
+https://github.com/mehullamba7/G_Text_Editor/assets/174151487/5a022eee-22f7-440b-be2f-e242bbf46213
 #### Creating a new file
-
+https://github.com/mehullamba7/G_Text_Editor/assets/174151487/9abd8bdf-33bb-48b0-989c-fffcf5a49358
 
